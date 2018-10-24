@@ -38,4 +38,5 @@ This is repository is used for creating a fakeDB using JSON-Server package
 
  * Run the app using the command
     `json-server db.json`
- ###Note: You can also auto-generate the specific contents.Example See `generate.js`
+    
+ #Note: You can also auto-generate the specific contents.Example See `generate.js`
